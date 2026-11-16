@@ -1,0 +1,7 @@
+# local working files (not part of the profile)
+_*.html
+_*.json
+_*.png
+avatar.html
+avatar.png
+profile-preview.png
